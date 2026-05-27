@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__apipost__apipost_workspace",
+      "mcp__apipost__apipost_list"
+    ]
+  }
+}
